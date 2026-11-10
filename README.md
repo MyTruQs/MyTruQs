@@ -1,75 +1,75 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://mytruqs.codes">Raul Fernandes</a> 👋 </h1>
+
+# Hi, I'm Raul Fernandes 👋
+
+**AI Engineer · Python Backend Developer · Technical Lead**
+
+I build Python backends, integrations, and conversational AI systems. My current work focuses on AI orchestration for multi-channel customer journeys, combining LLMs, agent workflows, APIs, and retrieval-augmented generation (RAG).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-fernandes-dev/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raulfernandes.rm@gmail.com)
+
 </div>
 
-<h5 align="center">
+## What I work on
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-fernandes-dev/)
- [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:raulfernandes.rm@gmail.com)
- [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/FernandesDev)
-</h5>
+- **AI orchestration:** multi-turn conversational agents, intent-based routing, LLM integrations, structured outputs, and RAG-enabled knowledge retrieval.
+- **Backend engineering:** Python APIs, asynchronous jobs, databases, and integrations with financial and customer-service systems.
+- **Engineering practices:** automated tests, code review, Docker, CI/CD, and observability.
+- **Earlier experience:** mobile test automation with Python, Appium, and Robot Framework; technical team leadership.
+
+> Most of my recent professional work is in private repositories, so the public activity below represents only part of what I build.
+
+## Technologies
+
+**AI & backend**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM%20integration-412991?style=flat-square&logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+
+**Delivery & automation**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-EE376D?style=flat-square&logo=appium&logoColor=white)
+
+## My public GitHub journey
+
+<details open>
+<summary>Career trail</summary>
 <br>
+<a href="https://github-timeline.frangolab.com/u/MyTruQs?lang=en">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-timeline.frangolab.com/embed/MyTruQs/trilha.svg?lang=en&amp;tema=escuro&amp;paleta=azul">
+    <img alt="Career trail: public GitHub contributions by month" src="https://github-timeline.frangolab.com/embed/MyTruQs/trilha.svg?lang=en&amp;tema=claro&amp;paleta=azul" width="840">
+  </picture>
+</a>
+</details>
 
-<p align="center">
-  Hello, I'm Raul Fernandes! Software Developer and Telecommunications Network Analyst
-  <br>
-  <br>
-  🎓 I hold a degree in Systems Analysis and Development
-  <br>
-  📚 Currently, I'm pursuing a postgraduate degree in Software Development
-  <br>
-  💼 I work with mobile device testing automation and network metrics
-  <br>
-  💻 I have experience in automation using Python, Appium, Selenium, and Robot Framework
-  <br>
-  🌐 I'm passionate about fullstack development and always looking to create end-to-end solutions for both frontend and backend
-  <br>
-  🛠 I'm constantly exploring new technologies and tools to enhance my skills in development and automation
-  <br>
-  📫 How to reach me: <a href="mailto:raulfernandes.rm@gmail.com">raulfernandes.rm@gmail.com</a>
-</p>
-
-
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<details>
+<summary>Language river</summary>
 <br>
+<a href="https://github-timeline.frangolab.com/u/MyTruQs?lang=en">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-timeline.frangolab.com/embed/MyTruQs/linguagens.svg?lang=en&amp;tema=escuro&amp;paleta=aurora">
+    <img alt="Language river: public repositories created by language and year" src="https://github-timeline.frangolab.com/embed/MyTruQs/linguagens.svg?lang=en&amp;tema=claro&amp;paleta=aurora" width="840">
+  </picture>
+</a>
+</details>
 
-<h5 align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</h5>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<details>
+<summary>Milestones</summary>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=MyTruQs&theme=react&border=61dafb&hide_border=true" alt="MyTruQs" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MyTruQs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyTruQs&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-</p>
-<hr>
+<a href="https://github-timeline.frangolab.com/u/MyTruQs?lang=en">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-timeline.frangolab.com/embed/MyTruQs/conquistas.svg?lang=en&amp;tema=escuro">
+    <img alt="Milestones from public GitHub activity" src="https://github-timeline.frangolab.com/embed/MyTruQs/conquistas.svg?lang=en&amp;tema=claro" width="840">
+  </picture>
+</a>
+</details>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-
+<sub>Animated visuals by [GitHub Timeline](https://github.com/Moscarde/github-timeline), based on public GitHub data.</sub>
