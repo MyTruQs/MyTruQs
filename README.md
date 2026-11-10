@@ -6,8 +6,9 @@
 
 I build Python backends, integrations, and conversational AI systems. My current work focuses on AI orchestration for multi-channel customer journeys, combining LLMs, agent workflows, APIs, and retrieval-augmented generation (RAG).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-fernandes-dev/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raulfernandes.rm@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-fernandes-dev/)
+ [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:raulfernandes.rm@gmail.com)
+ [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/FernandesDev)
 
 </div>
 
